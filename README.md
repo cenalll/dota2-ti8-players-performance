@@ -13,6 +13,7 @@ How did players perform in the TI8?
 	Conducted by Cenal
 
 Steps:
+
 	Collected data from dota opendata
 
 	Cleaned and saved data into csv file
@@ -25,6 +26,8 @@ First, we get pair plot. It’s easily to see the linear relationship between so
 i.e. XPM and GPM is strictly positive, Deaths and XPM is negative linearly related, etc.
 
 ![image](https://user-images.githubusercontent.com/43325087/48036938-faaaa500-e12f-11e8-8c68-1c4caa410371.png)
+
+Pair plot for teams
 
 ![image](https://user-images.githubusercontent.com/43325087/48036948-06966700-e130-11e8-9ef5-933689234545.png)
 
