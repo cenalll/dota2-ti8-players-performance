@@ -31,3 +31,6 @@ Pair plot for teams
 
 ![image](https://user-images.githubusercontent.com/43325087/48036948-06966700-e130-11e8-9ef5-933689234545.png)
 
+Then the scatter plot of players’ KDA
+
+![image](https://user-images.githubusercontent.com/43325087/48037043-6a209480-e130-11e8-87b9-8af91cead4db.png)
